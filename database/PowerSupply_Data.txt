@@ -1,0 +1,10 @@
+Corsair CXM, PSU, 69.98, Corsair, 4.5, ATX, 80+ Bronze, 550, Semi, Black
+EVGA SuperNOVA G3, PSU, 113.48, EVGA, 4.9, ATX, 80+ Gold, 750, Full, Black
+Corsair RM, PSU, 94.99, Corsair, 5.0, ATX, 80+ Gold, 750, Full, Black
+Corsair RMx, PSU, 114.99, Corsair, 4.9, ATX, 80+ Gold, 650, Full, Black
+Corsair TXM, PSU, 94.98, Corsair, 4.7, ATX, 80+ Gold, 550, Semi, Black
+SeaSonic EVO, PSU, 76.99, SeaSonic, 4.8, ATX, 80+ Bronze, 620, Full, Black
+Gigabyte 750, PSU, 74.98, Gigabyte, 5.0, ATX, 80+ Gold, 750, Semi, Black
+SeaSonic PRIME SNOWSILENT, PSU, 113.98, SeaSonic, 4.0, ATX, 80+ Gold, 550, Full, White
+Corsair RMx White, PSU, 118.99, Corsair, 4.5, ATX, 80+ Gold, 750, Full, White
+Corsair SF, PSU, 139.00, Corsair, 4.8, ATX, 80+ Platinum, 600, Full, Black

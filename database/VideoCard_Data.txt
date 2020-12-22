@@ -1,0 +1,10 @@
+MSI GeForce GTX 1080 Ti, Video Card, 1229.99, MSI, 5.0, 11, 1569, 1683, DVI_2xHDMI_2xDisplayPort
+EVGA GeForce GTX 1080 Ti, Video Card, 1259.99, EVGA, 4.9, 11, 1569, 1683, DVI_3xDisplayPort
+NVIDIA GeForce GTX 1080, Video Card, 914.99, NVIDIA, 4.5, 8, 1607, 1733, DVI_HDMI_3xDisplayPort
+MSI GeForce GTX 1050 Ti, Video Card, 159.99, MSI, 4.7, 4, 1341, 1455, DVI_HDMI_DisplayPort
+Asus GeForce RTX 2080 Ti ROG Strix Gaming OC, Video Card, 1214.99, Asus, 4.7, 11, 1350, 1665, 2xHDMI_2xDisplayPort
+MSI GeForce RTX 2060 Ventus OC, Video Card, 309.99, MSI, 4.1, 6, 1365, 1710, HDMI_3xDisplayPort
+MSI GeForce GTX 1660 Ti Ventus XS OC, Video Card, 264.99, MSI, 4.8, 6, 1500, 1830, HDMI_3xDisplayPort
+Gigabyte GeForce RTX 2070 Super Windforce OC, Video Card, 499.99, Gigabyte, 4.7, 8, 1605, 1785, HDMI_3xDisplayPort
+Asus Radeon RX 5700 XT Strix Gaming OC, Video Card, 434.99, Asus, 5.0, 8, 1770, 2035, HDMI_3xDisplayPort
+MSI Radeon Rx 580 Armor OC, Video Card, 149.99, MSI, 4.5, 8, 1257, 1366, DVI_2xHDMI_2xDisplayPort

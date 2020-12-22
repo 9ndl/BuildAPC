@@ -1,0 +1,10 @@
+Noctua NH-U12A, CPU Cooler, 99.99, Noctua, 4.9, 450 - 2000, 18.8 - 22.6, Brown, None, false
+Cooler Master Hyper 212 Evo, CPU Cooler, 24.99, Cooler Master, 4.6, 600 - 2000, 9 - 36, Black/Silver, None, false
+Corsair H100i RGB Platinum, CPU Cooler, 129.99, Corsair, 4.5, 2400, 37, Black/Silver, 240, true
+Cooler Master MasterLiquid ML240L RGB, CPU Cooler, 49.99, Cooler Master, 4.3, 650 - 2000, 6 - 30, Black, 240, true
+NZXT Kraken X62 Rev 2, CPU Cooler, 131.80, NZXT, 4.5, 500 - 1800, 21 - 38, Black, 280, true
+Corsair H150i Pro, CPU Cooler, 149.99, Corsair, 4.7, 1600, 25, Black/Silver, 360, true
+Noctua NH-D15, CPU Cooler, 89.95, Noctua, 4.9, 300 - 1500, 19.2 - 24.6, Brown, None, false
+Corsair H60, CPU Cooler, 59.99, Corsair, 4.6, 1700, 29.3, Black, 120, true
+AMD Wraith Max, CPU Cooler, 37.39, AMD, 4.2, 700 - 3000, 39, Black, None, false
+be quiet! Dark Rock 4, CPU Cooler, 74.90, be quiet!, 4.8, 1400, 18.7 - 22.5, Black, None, false

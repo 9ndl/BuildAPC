@@ -1,0 +1,10 @@
+Z370-A Pro, Motherboard, 200.99, MSI, 4.6, LGA1151, ATX, 4, 64, Intel Z370, DDR4
+Z370M Gaming Pro, Motherboard, 349.74, MSI, 4.7, LGA1151, Mini ATX, 4, 64, Intel Z370, DDR4
+B450 Tomahawk, Motherboard, 110.99, MSI, 4.7, AM4, ATX, 4, 64, AMD B450, DDR4
+ROG Strix_B450-F_Gaming, Motherboard, 119.99, Asus, 4.6, AM4, ATX, 4, 64, AMD B450, DDR4
+Gaming Pro Carbon_AC, Motherboard, 149.99, MSI, 4.8, AM4, ATX, 4, 64, AMD B450, DDR4
+X570 Aorus Pro_Wifi, Motherboard, 219.00, Gigabyte, 4.3, AM4, Mini ATX, 2, 64, AMD X570, DDR4
+B450M_DS3H, Motherboard, 70.98, Gigabyte, 3.9, AM4, Micro ATX, 4, 64, AMD B450, DDR4
+B45 Aorus Elite, Motherboard, 109.99, Aorus, 4.7, AM4, ATX, 4, 64, AMD B450, DDR4
+Z10-A, Motherboard, 386.44, Asus, 4.4, LGA1151, ATX, 4, 64, Intel Z170, DDR4
+Z390-A Pro, Motherboard, 109.99, MSI, 4.6, LGA1151, ATX, 4, 128, Intel Z390, DDR4

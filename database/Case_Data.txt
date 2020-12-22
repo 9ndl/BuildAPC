@@ -1,0 +1,10 @@
+NZXT H510, Case, 69.99, NZXT, 4.0, ATX Mid Tower, Tempered Glass, White, USB 3.2 Type-C_USB 3.2 Type-A, ATX, 2, 2
+NZXT H500, Case, 89.98, NZXT, 4.8, ATX Mid Tower, Tempered Glass, Black, 2x USB 3.2 Type-A, ATX, 3, 3
+Phanteks P300, Case, 59.99, Phanteks, 4.4, ATX Mid Tower, Tempered Glass, Black, 2x USB 3.2 Type-A, ATX, 1, 2
+Fractal Design Meshify C, Case, 98.98, Fractal Design, 4.8, ATX Mid Tower, Tempered Glass, Black, 2x USB 3.2 Type-A, ATX, 3, 2
+Cooler Master MasterBox Q300L, Case, 44.99, Cooler Master, 4.5, Micro ATX, Tempered Glass, Black, 2x USB 3.2 Type-A, Mini ATX, 2, 1
+Corsair Obsidian 500D RGB SE, Case, 279.99, Corsair, 4.8, ATX Mid Tower, Tempered Glass, Black, USB 3.2 Type-C_2x USB 3.2 Type-A, ATX, 3, 2
+Lian Li PC-O11 Dynamic, Case, 129.99, Lian Li, 4.9, ATX Full Tower, Tempered Glass, White, USB 3.2 Type-C_2x USB 3.2 Type-A, ATX, 4, 2
+Corsair 200R, Case, 59.99, Corsair, 4.6, ATX Mid Tower, None, Black, 2x USB 3.2 Type-A, ATX, 4, 4
+NZXT H510i, Case, 89.99, NZXT, 4.5, ATX Mid Tower, Tempered Glass, White, USB 3.2 Type-C_2x USB 3.2 Type-A, ATX, 2, 2
+ThermalTake Versa H15, Case, 44.99, ThermalTake, 3.7, Micro ATX, None, Black, USB 2.0 Type-A_USB 3.2 Type-A, Micro ATX, 1, 3

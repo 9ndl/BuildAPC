@@ -1,0 +1,10 @@
+Corsair Vengeance LPX, Memory, 64.98, Corsair, 4.9, 16, DDR4-3000, 288-pin DIMM, 2 x 8GB
+Corsair Vengeance LPX, Memory, 79.98, Corsair, 4.8, 16, DDR4-3200, 288-pin DIMM, 2 x 8GB
+G.Skill Trident Z RGB, Memory, 84.99, G.Skill, 4.8, 16, DDR4-3200, 288-pin DIMM, 2 x 8GB
+Corsair Vengeance RGB Pro, Memory, 79.99, Corsair, 4.8, 16, DDR4-3200, 288-pin DIMM, 2 x 8GB
+Corsair Vengeance RGB Pro, Memory, 169.99, Corsair, 4.9, 32, DDR4-3200, 288-pin DIMM, 2 x 16GB
+Corsair Vengeance LPX, Memory, 157.99, Corsair, 5.0, 32, DDR4-3200, 288-pin DIMM, 2 x 16GB
+G.Skill Ripjaws V Series, Memory, 64.98, G.Skill, 4.7, 16, DDR4-3200, 288-pin DIMM, 2 x 8GB
+G.Skill Trident Z RGB, Memory, 94.99, G.Skill, 5.0, 16, DDR4-3600, 288-pin DIMM, 2 x 8GB
+Kingston HyperX Fury, Memory, 52.99, Kingston, 4.3, 8, DDR4-2666, 288-pin DIMM, 1 x 8GB
+Team T-Force Delta RGB, Memory, 64.98, Team T-Force, 4.5, 16, DDR4-3000, 288-pin DIMM, 2 x 8GB

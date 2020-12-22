@@ -1,0 +1,10 @@
+Ryzen 5 2600X, CPU, 148.40, AMD, 4.9, 6, 3.6, 4.2, 95, None, AM4
+Core i9 9900K, CPU, 471.99, Intel, 4.8, 8, 3.6, 5, 95, Intel UHD Graphics 630, LGA1151
+Ryzen 5 3600, CPU, 194.00, AMD, 4.9, 6, 3.6, 4.2, 65, None, AM4
+Ryzen 7 3700X, CPU, 309.99, AMD, 4.9, 8, 3.6, 4.4, 65, None, AM4
+Core i7 9700K, CPU, 359.99, Intel, 4.8, 8, 3.6, 4.9, 95, Intel UHD Graphics 630, LGA1151
+Ryzen 5 2600, CPU, 117.68, AMD, 4.9, 6, 3.4, 3.9, 65, None, AM4
+Ryzen 7 2700X, CPU, 189.56, AMD, 5.0, 8, 3.7, 4.3, 105, None, AM4
+Core i5 9600K, CPU, 219.95, Intel, 4.8, 6, 3.7, 4.6, 95, Intel UHD Graphics 630, LGA1151
+Core i7 8700K, CPU, 359.99, Intel, 4.9, 6, 3.7, 4.7, 95, Intel UHD Graphics 630, LGA1151
+Core i7 8700, CPU, 309.99, Intel, 4.9, 6, 3.2, 4.6, 65, Intel UHD Graphics 630, LGA1151

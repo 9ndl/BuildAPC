@@ -1,0 +1,10 @@
+Western Digital Caviar Blue, Storage, 39.99, Western Digital, 4.7, 1 TB, 7200 RPM HDD, 64, 3.5, SATA 6 GB/s
+Samsung 860 Evo, Storage, 79.98, Samsung, 4.8, 500 GB, SSD, 512, 2.5, SATA 6 GB/s
+Samsung 860 Evo, Storage, 139.99, Samsung, 4.9, 1 TB, SSD, 1024, 2.5, SATA 6 GB/s
+Samsung 970 Evo, Storage, 89.99, Samsung, 4.9, 500 GB, SSD, 512, M.2-2280, M.2
+Seagate Barracuda, Storage, 64.88, Seagate, 4.8, 2 TB, 7200 RPM HDD, 64, 3.5, SATA 6 GB/s
+Samsung 970 Evo, Storage, 169.99, Samsung, 4.9, 1 TB, SSD, 1024, M.2-2280, M.2
+Seagate Barracuda, Storage, 43.99, Seagate, 4.7, 1 TB, 7200 RPM HDD, 64, 3.5, SATA 6 GB/s
+Seagate Iron Wolf Pro, Storage, 537.99, Seagate, 4.5, 16 TB, 7200 RPM HDD, 256, 3.5, SATA 6 GB/s
+Samsung 970 Evo Plus, Storage, 440.00, Samsung, 5.0, 2 TB, SSD, 2, M.2-2280, M.2
+Crucial P1, Storage , 95.99, Crucial, 4.7, 1 TB, SSD, 0, M.2-2280, M.2

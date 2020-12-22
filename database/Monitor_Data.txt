@@ -1,0 +1,10 @@
+AOC C24G1, Monitor, 144.99, AOC, 4.8, 24.0, 1920 x 1080, 144, 1, VA, 16:9, true, HDMI_VGA_Display Port, Freesync
+MSI Optix MAG241C, Monitor, 194.99, MSI, 4.9, 23.6, 1920 x 1080, 144, 1, VA, 16:9, true, HDMI_DisplayPort, Freesync
+Acer SB220Q bi, Monitor, 89.99, Acer, 4.7, 21.5, 1920 x 1080, 75, 4, IPS, 16:9, false, HDMI_VGA, Freesync
+Dell S2519HGF, Monitor, 149.99, Dell, 4.4, 24, 1920 x 1080, 144, 1, TN, 16:9, false, HDMI_DisplayPort, Freesync
+Dell S2719DGF, Monitor, 289.99, Dell, 5.0, 27, 2560 x 1440, 155, 1, TN, 16:9, false, HDMI_DisplayPort, Freesync
+Asus ROG Swift PG27UQ, Monitor, 1438.19, Asus, 5.0, 27, 3840 x 2160, 144, 4, IPS, 16:9, false, HDMI_DisplayPort, G-sync
+Asus VG248QE, Monitor, 222.00, Asus, 4.8, 24, 1920 x 1080, 144, 1, TN, 16:9, false, HDMI_DVI-D_DisplayPort, None
+LG 27GL850-B, Monitor, 449.99, LG, 4.8, 27, 2560 x 1440, 144, 1, IPS, 16:9, false, HDMI_DisplayPort, Freesync
+Sceptre E255B-1658A, Monitor, 159.97, Sceptre, 5.0, 24.5, 1920 x 1080, 165, 1, TN, 16:9, false, HDMI_DisplayPort, Freesync
+Samsung ChG90, Monitor, 799.99, Samsung, 4.5, 49, 3840 x 1080, 144, 1, VA, 32:9, true, HDMI_DisplayPort_Mini-DisplayPort, Freesync
